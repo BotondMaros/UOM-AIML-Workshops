@@ -1,7 +1,7 @@
 # UOM-AIML-Workshops
 
 Workshops we held for other students under the umbrella of the University of Manchester's AI and Machine Learning Society. 
-2019 September-December. 
+2019 September-December. @antoniek helped to prepare the codes.
 
 Topics include:
     1) data cleaning-preprocessing
