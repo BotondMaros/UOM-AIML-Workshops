@@ -1,6 +1,7 @@
 # UOM-AIML-Workshops
 
-Workshops we held for other students under the umbrella of the University of Manchester's AI and Machine Learning Society. 2019 September-December. 
+Workshops we held for other students under the umbrella of the University of Manchester's AI and Machine Learning Society. 
+2019 September-December. 
 
 Topics include:
     1) data cleaning-preprocessing
